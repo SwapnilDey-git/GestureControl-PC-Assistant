@@ -1,1 +1,2 @@
 pip install opencv-python mediapipe pynput
+pip install tk
